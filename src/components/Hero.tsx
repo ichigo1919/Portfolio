@@ -2,7 +2,6 @@ import { Github, Mail, Phone, ArrowDown } from 'lucide-react';
 import { personalInfo } from '../data/portfolioData';
 
 
-<img src={profilePic} alt="Profile" />
 
 
 export default function Hero() {
