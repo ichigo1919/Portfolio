@@ -1,6 +1,10 @@
 import { Github, Mail, Phone, ArrowDown } from 'lucide-react';
 import { personalInfo } from '../data/portfolioData';
 
+
+<img src={profilePic} alt="Profile" />
+
+
 export default function Hero() {
   const scrollToSection = (id: string) => {
     const element = document.getElementById(id);
@@ -77,7 +81,7 @@ export default function Hero() {
 
             {/* Profile Image */}
             <img
-              src="/jashu-profile.jpg"
+              src="/Portfolio/jashu-profile.jpg"
               alt="Jashwanth Chamkuri"
               className="relative w-72 h-72 md:w-96 md:h-96 object-cover rounded-full border-4 border-transparent shadow-xl shadow-cyan-500/40 hover:scale-105 transition-transform duration-300 animate-[float_4s_ease-in-out_infinite]"
             />
