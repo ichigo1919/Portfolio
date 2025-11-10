@@ -44,10 +44,10 @@ export const projects = [
     subtitle: "MERN Stack + Google Auth + Razorpay + OpenAI",
     date: "Oct 2025",
     technologies: ["React", "Node.js", "Express", "MongoDB", "OpenAI API", "Google OAuth", "Razorpay", "Tailwind CSS"],
-    description: "A fully functional AI-driven e-commerce platform with personalized recommendations and smart chatbot support.",
+    description: "OneCart — Voice-Enabled E-Commerce Platform  .",
     achievements: [
       "Built a fully functional AI-driven e-commerce platform using MERN Stack",
-      "Integrated OpenAI API to deliver personalized product recommendations and smart chatbot support",
+      "Added a voice navigation feature using the browser mic to let users move between pages via speech commands",
       "Implemented secure authentication with Google OAuth and JWT",
       "Developed complete cart, checkout, and order management systems with real-time updates",
       "Integrated Razorpay payment gateway for smooth, secure transactions and order tracking",
